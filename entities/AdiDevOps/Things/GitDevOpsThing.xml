@@ -51,7 +51,7 @@
                              name="BranchName"
                              ordinal="7"></FieldDefinition>
                             <FieldDefinition
-                             aspect.defaultValue="jdoe@ptc.com"
+                             aspect.defaultValue="jdoe@example.com"
                              aspect.friendlyName="Commit Email"
                              baseType="STRING"
                              description=""
@@ -128,7 +128,7 @@
                             </BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            adpetrescu@ptc.com
+                            adpetrescu@example.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
